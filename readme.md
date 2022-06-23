@@ -2,6 +2,8 @@ Clone the repository onto your local computer by downloading the Github Desktop 
 
 We will be making a change to the file poem.txt
 
-Add a line to file 
+Add a line to file
 
-Commit this change 
+Commit this change
+
+Push this change
